@@ -2,7 +2,6 @@
 
 ![logotravel](https://user-images.githubusercontent.com/32874772/38582015-105a6062-3cd4-11e8-8835-9cb91d6de082.png)
 
-
 ## Índice
 
 1. Objetivos principales
